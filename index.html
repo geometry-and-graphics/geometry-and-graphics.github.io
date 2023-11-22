@@ -1,0 +1,63 @@
+---
+layout: default
+title: Home
+---
+
+{% if page.url == "/" %}
+
+<!-- Site Title
+================================================== -->
+<div class="mainheading">
+    <img src="/assets/images/research-group-logo-small.png" class="logo-on-home">
+
+    <h1 class="sitetitle">{{ site.name }}</h1>
+    <p class="lead">
+        {{ site.description }}
+    </p>
+</div>
+
+<section class="site">
+    <div class="section-title">
+        <h2><span>Welcome!</span></h2>
+    </div>
+    <div class="text">
+
+    <p>
+        We study interesting research problems at the intersection of geometry
+        and computer graphics.
+        Our methods include classical geometry processing, numerical
+        mathematics, and machine learning.
+        We are always in search of the next interesting mathematical problem
+        that helps us explain the shapes of
+        the world around us.
+    </p>
+
+    <p>
+        You can find <a href="/people">a list of members of our growing
+        team here</a>.
+        The <a href="/research">list of our most recent publications can be found here</a>.
+    </p>
+
+    </div>
+</section>
+
+<section class="site">
+    <div class="section-title">
+        <h2><span>News</span></h2>
+    </div>
+    <div class="text">
+
+    <p>
+        <ul>
+            <li><emph>Dec 2023</emph>: Our research group will present three articles at SIGGRAPH Asia 2023 in Sydney.</li>
+            <li><emph>Aug 2023</emph>: Our first two PhD students, Pranav Jain and Dylan Rowe, have joined GGG!</li>
+        </ul>
+    </p>
+
+    </div>
+</section>
+
+{% endif %}
+
+
+
