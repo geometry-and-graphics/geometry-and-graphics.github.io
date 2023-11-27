@@ -35,4 +35,13 @@ permalink: /people
 
 ## Undergraduate Researchers
 
-Tbd
+<div markdown="1" class="pubentry">
+<img src="/assets/photos/alice-wei.png" class="pubimage" />
+### Alice (Ziyu) Wei
+
+2023 - Now
+
+[personal website](https://www.aliceweiziyu.com)
+|
+[email](mailto:alicewei@usc.edu)
+</div>
