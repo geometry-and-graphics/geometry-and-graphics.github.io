@@ -33,6 +33,15 @@ permalink: /people
 [email](mailto:pranavj@usc.edu)
 </div>
 
+<div markdown="1" class="pubentry">
+<img src="/assets/photos/dylan-rowe.png" class="pubimage" />
+### Dylan Rowe
+
+2023 - Now
+
+[email](mailto:dylanr@usc.edu)
+</div>
+
 ## Undergraduate Researchers
 
 <div markdown="1" class="pubentry">
