@@ -17,22 +17,41 @@ permalink: /research
 |
 [project page](https://odedstein.com/projects/reach-for-the-spheres/)
 |
-[code](https://github.com/sgsellan/reach-for-the-spheres/)
-|
 [arxiv](https://arxiv.org/abs/2308.09813)
+|
+[code](https://github.com/sgsellan/reach-for-the-spheres/)
 </div>
 
 
 <div markdown="1" class="pubentry">
 <img src="https://odedstein.com/assets/images/variational-barycentric.png" class="pubimage" />
 ### Variational Barycentric Coordinates 
-#### ACM SIGGRAPH Asia 2023
+#### ACM TOG / ACM SIGGRAPH Asia 2023
 
 *Ana Dodik, Oded Stein, Vincent Sitzmann, Justin Solomon*
 
 [preprint pdf](https://anadodik.github.io/publication/vbc/vbc.pdf)
 |
+[ACM Library](https://dl.acm.org/doi/10.1145/3618403)
+|
 [code](https://anadodik.github.io/publication/vbc/supplemental.zip)
+</div>
+
+
+<div markdown="1" class="pubentry">
+<img src="https://odedstein.com/assets/images/adaptive-hybrid-biem-diffusion-curves.png" class="pubimage" />
+### An Adaptive Fast-Multipole-Accelerated Hybrid Boundary Integral Equation Method for Accurate Diffusion Curves
+#### ACM TOG / ACM SIGGRAPH Asia 2023
+
+*Seungbae Bang, Kirill Serkh, Oded Stein, Alec Jacobson*
+
+[preprint pdf](https://www.dgp.toronto.edu/projects/adaptive-hybrid-biem-diffusion-curves/adaptive-hybrid-biem-diffusion-curves.pdf)
+|
+[project page](https://www.dgp.toronto.edu/projects/adaptive-hybrid-biem-diffusion-curves/)
+|
+[ACM Library](https://dl.acm.org/doi/10.1145/3618374)
+|
+[arxiv](https://arxiv.org/abs/2311.14312)
 </div>
 
 
