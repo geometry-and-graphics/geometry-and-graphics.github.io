@@ -7,6 +7,38 @@ permalink: /research
 # Research
 
 <div markdown="1" class="pubentry">
+<img src="https://odedstein.com/assets/images/reach-arcs.png" class="pubimage" />
+### *Reach For the Arcs*: Reconstructing Surfaces from SDFs via Tangent Points
+#### ACM SIGGRAPH 2024
+
+*Silvia Sellán, Yingying Ren, Christopher Batty, <ins>Oded Stein</ins>*
+
+[preprint pdf](https://odedstein.com/projects/reach-for-the-arcs/reach-for-the-arcs.pdf)
+|
+[project page](https://odedstein.com/projects/reach-for-the-arcs/)
+|
+ACM Library
+|
+code
+</div>
+
+<div markdown="1" class="pubentry">
+<img src="https://odedstein.com/assets/images/reach.png" class="pubimage" />
+### Neural Monte Carlo Fluid Simulation
+#### ACM SIGGRAPH 2024
+
+*Pranav Jain, Peter Yichen Chen, Ziyin Qu, <ins>Oded Stein</ins>*
+
+[preprint pdf](https://pranav-jain.github.io/projects/nmcfs/nmcfs.pdf)
+|
+[project page](https://pranav-jain.github.io/projects/nmcfs/index.html)
+|
+ACM Library
+|
+[code](https://github.com/Pranav-Jain/Neural-Monte-Carlo-Fluid-Simulation)
+</div>
+
+<div markdown="1" class="pubentry">
 <img src="https://odedstein.com/assets/images/reach.png" class="pubimage" />
 ### *Reach For the Spheres*:  Tangency-Aware Surface Reconstruction of SDFs
 #### ACM SIGGRAPH Asia 2023
