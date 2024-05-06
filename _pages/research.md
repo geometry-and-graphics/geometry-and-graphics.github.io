@@ -23,7 +23,7 @@ code
 </div>
 
 <div markdown="1" class="pubentry">
-<img src="https://odedstein.com/assets/images/reach.png" class="pubimage" />
+<img src="https://odedstein.com/assets/images/nmcfs.png" class="pubimage" />
 ### Neural Monte Carlo Fluid Simulation
 #### ACM SIGGRAPH 2024
 
