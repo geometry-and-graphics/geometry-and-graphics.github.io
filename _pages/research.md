@@ -27,7 +27,7 @@ code
 ### Neural Monte Carlo Fluid Simulation
 #### ACM SIGGRAPH 2024
 
-*Pranav Jain, Peter Yichen Chen, Ziyin Qu, <ins>Oded Stein</ins>*
+*<ins>Pranav Jain</ins>, Peter Yichen Chen, Ziyin Qu, <ins>Oded Stein</ins>*
 
 [preprint pdf](https://pranav-jain.github.io/projects/nmcfs/nmcfs.pdf)
 |
@@ -37,6 +37,21 @@ ACM Library
 |
 [code](https://github.com/Pranav-Jain/Neural-Monte-Carlo-Fluid-Simulation)
 </div>
+
+<div markdown="1" class="pubentry">
+<img src="https://odedstein.com/assets/images/parabolic.png" class="pubimage" />
+### A Framework for Solving Parabolic Partial Differential Equations on Discrete Domains
+#### ACM TOG / SIGGRAPH 2024
+
+*Leticia Mattos Da Silva, <ins>Oded Stein</ins>, Justin Solomon*
+
+[preprint pdf](https://arxiv.org/pdf/2312.00327)
+|
+[ACM Library](https://dl.acm.org/doi/10.1145/3666087)
+|
+[arXiv](https://arxiv.org/abs/2312.00327)
+</div>
+
 
 <div markdown="1" class="pubentry">
 <img src="https://odedstein.com/assets/images/reach.png" class="pubimage" />
