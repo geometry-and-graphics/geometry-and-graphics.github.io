@@ -37,6 +37,8 @@ permalink: /people
 
 2024 - Now
 
+[personal website](https://david-cha.github.io/)
+|
 [email](mailto:jaeyoonc@usc.edu@usc.edu)
 </div>
 
