@@ -23,6 +23,24 @@ permalink: /people
 ## PhD Students
 
 <div markdown="1" class="pubentry">
+<img src="/assets/photos/letao-chen.png" class="pubimage" />
+### Letao (Jenna) Chen
+
+2024 - Now
+
+[email](mailto:letaoche@usc.edu)
+</div>
+
+<div markdown="1" class="pubentry">
+<img src="/assets/photos/david-cha.png" class="pubimage" />
+### David (Jae Yoon) Cha
+
+2024 - Now
+
+[email](mailto:jaeyoonc@usc.edu@usc.edu)
+</div>
+
+<div markdown="1" class="pubentry">
 <img src="/assets/photos/pranav-jain.png" class="pubimage" />
 ### Pranav Jain
 
