@@ -39,7 +39,7 @@ permalink: /people
 
 [personal website](https://david-cha.github.io/)
 |
-[email](mailto:jaeyoonc@usc.edu@usc.edu)
+[email](mailto:jaeyoonc@usc.edu)
 </div>
 
 <div markdown="1" class="pubentry">
