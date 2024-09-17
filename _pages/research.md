@@ -7,6 +7,20 @@ permalink: /research
 # Research
 
 <div markdown="1" class="pubentry">
+<img src="https://odedstein.com/assets/images/sharpening-sparsifying.png" class="pubimage" />
+### Sharpening and Sparsifying with Surface Hessians
+#### ACM SIGGRAPH Asia 2024
+
+*<ins>Dylan Rowe</ins>, Alec Jacobson, <ins>Oded Stein</ins>*
+
+[preprint pdf](https://d-r-o-w-e.github.io/sssh/data/l1_hessians_opt.pdf)
+|
+[project page](https://d-r-o-w-e.github.io/sssh/index.html)
+|
+[code](https://github.com/d-r-o-w-e/sssh)
+</div>
+
+<div markdown="1" class="pubentry">
 <img src="https://odedstein.com/assets/images/reach-arcs.png" class="pubimage" />
 ### *Reach For the Arcs*: Reconstructing Surfaces from SDFs via Tangent Points
 #### ACM SIGGRAPH 2024
@@ -17,9 +31,9 @@ permalink: /research
 |
 [project page](https://odedstein.com/projects/reach-for-the-arcs/)
 |
-ACM Library
+[ACM Library](https://dl.acm.org/doi/abs/10.1145/3641519.3657419)
 |
-code
+[code](https://gpytoolbox.org/latest/reach_for_the_arcs/)
 </div>
 
 <div markdown="1" class="pubentry">
@@ -33,7 +47,7 @@ code
 |
 [project page](https://pranav-jain.github.io/projects/nmcfs/index.html)
 |
-ACM Library
+[ACM Library](https://dl.acm.org/doi/10.1145/3641519.3657438)
 |
 [code](https://github.com/Pranav-Jain/Neural-Monte-Carlo-Fluid-Simulation)
 </div>

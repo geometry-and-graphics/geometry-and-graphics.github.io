@@ -59,6 +59,8 @@ permalink: /people
 
 2023 - Now
 
+[personal website](https://d-r-o-w-e.github.io/)
+|
 [email](mailto:dylanr@usc.edu)
 </div>
 
