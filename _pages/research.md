@@ -112,7 +112,7 @@ permalink: /research
 |
 [ACM Library](https://dl.acm.org/doi/10.1145/3618374)
 |
-[arxiv](https://arxiv.org/abs/2311.14312)
+[code](https://github.com/seungbaebang/hybrid_dc)
 </div>
 
 
